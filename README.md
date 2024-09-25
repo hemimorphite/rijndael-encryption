@@ -10,5 +10,6 @@ Tujuan aplikasi ini adalah membantu pengguna mengenkripsi teks menggunakan algor
 
 ## Pengguna dan kata sandi
 File untuk menyimpan nama pengguna dan kata sandi bernama **userpass.txt** terletak di folder **bin/Debug**.
-Nama Pengguna: admin
-Kata sandi: admin123
+
+- Nama Pengguna: admin
+- Kata sandi: admin123
